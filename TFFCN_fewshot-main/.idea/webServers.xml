@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4397b927-3256-46a1-bd40-1da47bbcf9f4" name="gupshare">
+        <fileTransfer accessType="SFTP" host="net.videojj.com" port="22868" sshConfigId="8150d89d-d133-48ce-a854-c0d1d45cd988" sshConfig="root@net.videojj.com:22868 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
